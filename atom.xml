@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://TOMERUP111.github.io</id>
+    <title>Xiaohu</title>
+    <updated>2025-07-13T07:48:28.074Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://TOMERUP111.github.io"/>
+    <link rel="self" href="https://TOMERUP111.github.io/atom.xml"/>
+    <subtitle>编程改变世界</subtitle>
+    <logo>https://TOMERUP111.github.io/images/avatar.png</logo>
+    <icon>https://TOMERUP111.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Xiaohu</rights>
+    <entry>
+        <title type="html"><![CDATA[garbage.exe]]></title>
+        <id>https://TOMERUP111.github.io/post/garbage exe/</id>
+        <link href="https://TOMERUP111.github.io/post/garbage exe/">
+        </link>
+        <updated>2025-07-13T07:46:44.000Z</updated>
+        <content type="html"><![CDATA[<p>一个有意思的恶意软件<br>
+下载：garbage.xiaoyuan151.com<br>
+软件作者是xiaoyuan151</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[windows重装大师]]></title>
+        <id>https://TOMERUP111.github.io/post/windows-chong-zhuang-da-shi/</id>
+        <link href="https://TOMERUP111.github.io/post/windows-chong-zhuang-da-shi/">
+        </link>
+        <updated>2025-07-13T03:00:12.000Z</updated>
+        <content type="html"><![CDATA[<p>官网：github.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎]]></title>
+        <id>https://TOMERUP111.github.io/post/huan-ying/</id>
+        <link href="https://TOMERUP111.github.io/post/huan-ying/">
+        </link>
+        <updated>2025-07-12T02:35:24.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到我的博客</p>
+]]></content>
+    </entry>
+</feed>
